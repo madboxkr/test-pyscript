@@ -16,6 +16,7 @@ pyenv virtualenv 3.9.4 test-pyscript
 
 # pypi
 
+```
 ❯ pip freeze
 anyio==3.6.1
 certifi==2022.6.15
@@ -36,4 +37,4 @@ typing_extensions==4.3.0
 urllib3==1.26.11
 Werkzeug==2.2.1
 zipp==3.8.1
-
+```
