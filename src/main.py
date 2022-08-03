@@ -59,3 +59,19 @@ async def get_model(model_name: ModelName):
 async def read_file(file_path: str):
     return {"file_path": file_path}
 
+
+'''-----'''
+
+
+@app.get("/my-maps/{my_map_id}")
+async def my_maps(my_map_id: int):
+    return {"my_map_id": my_map_id}
+
+
+@app.get("/my-pyscripts/{my_pyscript_id}")
+async def my_pyscript(my_pyscript_id: int):
+    return {"my_pyscript_id": my_pyscript_id}
+
+
+
+

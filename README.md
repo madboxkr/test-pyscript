@@ -6,8 +6,10 @@ test-pyscript
 https://pyscript.net/
 https://fastapi.tiangolo.com/ko/
 
-
 https://pydantic-docs.helpmanual.io/
+
+Templates - Jinja2 
+GraphQL - GraphQL, Strawberry is the recommended library as it has the design closest to FastAPI's design, it's all based on type annotations.
 
 https://flask.palletsprojects.com/
 
