@@ -14,6 +14,15 @@ GraphQL - GraphQL, Strawberry is the recommended library as it has the design cl
 https://flask.palletsprojects.com/
 
 
+# App deveopment tool
+VIM(my favorite) - https://vimawesome.com/
+VsCode - https://code.visualstudio.com/
+Electron - https://github.com/electron/electron
+Atom - https://github.com/atom/atom
+Flutter - https://flutter.dev/multi-platform
+Kotlin - https://kotlinlang.org/lp/mobile/
+
+
 # Goal
 Build My MAP for riding.
 
